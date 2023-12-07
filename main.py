@@ -16,3 +16,5 @@ if __name__ == '__main__':
 # 存取 https://www.jetbrains.com/help/pycharm/ 獲取 PyCharm 幫助
 
 print("just test")
+print("just test2")
+print("just test3")
